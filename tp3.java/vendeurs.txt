@@ -1,0 +1,24 @@
+Id,Prénom,Nom,Adresse de courriel,Province,Ville,Montant annuel de ventes (CAD)
+530060,David,Augustin,david.augustin@umontreal.ca,Nouveau-Brunswick,Fredericton,70000
+100218,Kamba,Balanganayi,kamba.balanganayi@umontreal.ca,Ontario,Toronto,150000
+100257,Liliane,Blouin-Léger,liliane.blouin-leger@umontreal.ca,Colombie-Britannique,Victoria,100000
+100881,Christophe,Bouchard,christophe.bouchard.1@umontreal.ca,Québec,Québec,80000
+100707,Jawad,Bourdi,jawad.bourdi@umontreal.ca,Québec,Montréal,120000
+100712,Souleymane,Camara,souleymane.camara@umontreal.ca,Alberta,Calgary,80000
+100650,Rémi,Coulombe,remi.coulombe@umontreal.ca,Ontario,Toronto,140000
+100659,Maxime,Desjardins,maxime.desjardins.2@umontreal.ca,Nouveau-Brunswick,Moncton,80000
+518044,Mihailo,Djordjevic,mihailo.djordjevic@umontreal.ca,Alberta,Calgary,60000
+100883,Alexandre,Dulong,alexandre.dulong@umontreal.ca,Manitoba,Winnipeg,160000
+100103,Laurent,Fortin-Fournier,laurent.fortin-fournier@umontreal.ca,Colombie-Britannique,Vancouver,180000
+100575,Thiago Marra,Gomes,thiago.marra.gomes@umontreal.ca,Ontario,Toronto,180000
+100587,Nathan-Ivanhoé,Grondin-Richard,nathan-ivanhoe.grondin-richard@umontreal.ca,Québec,Québec,70000
+100914,Mathieu,Guilbault,mathieu.guilbault.5@umontreal.ca,Ontario,Toronto,120000
+100987,Dave,Guy-Despatie,dave.guy-despatie@umontreal.ca,Nouveau-Brunswick,Fredericton,40000
+100820,Slim,Lanouar,slim.lanouar@umontreal.ca,Alberta,Calgary,100000
+100706,Ion,Movila,ion.movila@umontreal.ca,Colombie-Britannique,Vancouver,200000
+100916,Greg Nathan,Ngongang Ouandji,greg.nathan.ngongang.ouandji@umontreal.ca,Québec,Montréal,180000
+100960,Lyes,Rahni,lyes.rahni@umontreal.ca,Nouveau-Brunswick,Moncton,100000
+100859,Guillaume,Repka,guillaume.repka@umontreal.ca,Québec,Montréal,220000
+100879,Yanoé,Roy Fitton,yanoe.roy-fitton@umontreal.ca,Alberta,Edmonton,60000
+100711,Maxime,Sabourin-Fournier,maxime.sabourin-fournier@umontreal.ca,Québec,Québec,100000
+100910,Benjamin,Scott,scott.benjamin@umontreal.ca,Colombie-Britannique,Victoria,120000
